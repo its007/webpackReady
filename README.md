@@ -1,0 +1,2 @@
+# webpackReady
+Getting started withwebpack
